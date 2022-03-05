@@ -1,0 +1,27 @@
+.form-size {
+  width: 50%;
+}
+.principal {
+  padding: 40px 15px;
+  text-align: center;
+}
+.card2 {
+  padding: 5%;
+}
+body {
+  font-size: 18pt;
+}
+.menunormal {
+  position: fixed;
+  float: left;
+  background-color: black;
+  color: white;
+  width: 30%;
+}
+.errologin {
+  font-size: 15px;
+}
+
+a .btnger {
+  text-decoration: none;
+}
