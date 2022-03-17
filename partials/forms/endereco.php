@@ -100,7 +100,7 @@
             <option value="RS">Rio Grande do Sul</option>
             <option value="RO">Rondônia</option>
             <option value="RR">Roraima</option>
-            <option value="SV">Santa Catarina</option>
+            <option value="SC">Santa Catarina</option>
             <option value="SP">São Paulo</option>
             <option value="SE">Sergipe</option>
             <option value="TO">Tocantins</option>
